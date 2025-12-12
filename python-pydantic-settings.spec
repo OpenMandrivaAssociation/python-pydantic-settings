@@ -3,7 +3,7 @@
 
 Name:		python-pydantic-settings
 Version:	2.8.1
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/pydantic-settings/%{uname}-%{version}.tar.gz
 Summary:	Settings management using Pydantic
 URL:		https://pypi.org/project/pydantic-settings/
