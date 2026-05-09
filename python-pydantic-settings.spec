@@ -2,7 +2,7 @@
 %define oname pydantic_settings
 
 Name:		python-pydantic-settings
-Version:	2.14.0
+Version:	2.14.1
 Release:	1
 Summary:	Settings management using Pydantic
 License:	MIT
